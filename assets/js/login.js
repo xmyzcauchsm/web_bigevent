@@ -34,7 +34,7 @@ $(function(){
         }
         // 从layui获取layer对象
         let layer = layui.layer
-        $.post('http://www.liulongbin.top:3007/api/reguser',regDataObj,function(res){
+        $.post('/api/reguser',regDataObj,function(res){
             if(res.status !== 0){
                 return layer.msg(res.message)
             }
