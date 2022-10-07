@@ -45,3 +45,12 @@ body {
 .reg-box .layui-input {
     padding-left: 32px;
 }
+.layui-main img{
+    margin-top: 20px;
+}
+.panda img {
+    position: relative;
+    top: 260px;
+    left: 1180px;
+    width: 200px;
+}
