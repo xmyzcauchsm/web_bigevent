@@ -20,7 +20,7 @@ $(function(){
                 if(res.status !== 0){
                     return layer.msg('获取用户信息失败！')
                 }
-                // 调用form.val('filter',data),原本存在的属性值则会自动赋值
+                // 调用form.val('filter',data),filter是lay-filter="" 对应的值，原本存在的属性值则会自动赋值
                 form.val('formUserInfo',res.data)
                 console.log(res.data);
             }
