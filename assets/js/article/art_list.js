@@ -114,12 +114,391 @@ $(function(){
                 "pub_date": "2022-10-03 21:19:57.690",
                 "state": "草稿",
                 "cate_name": "最新"
-            }
+            },
+            {
+                "Id": 17,
+                "title": "临时创建的一个文章标题",
+                "pub_date": "2022-10-02 20:19:57.690",
+                "state": "已发布",
+                "cate_name": "最新"
+              },
+              {
+                "Id": 18,
+                "title": "夜总牛逼",
+                "pub_date": "2022-10-02 20:33:52.817",
+                "state": "已发布",
+                "cate_name": "新闻"
+              },
+              {
+                "Id": 19,
+                "title": "关于夜总牛逼的各种学术探讨",
+                "pub_date": "2022-10-02 21:38:25.690",
+                "state": "草稿",
+                "cate_name": "新闻"
+              },
+              {
+                "Id": 20,
+                "title": "夜总如何成为一个神。。。。经病",
+                "pub_date": "2022-10-02 22:14:41.690",
+                "state": "已发布",
+                "cate_name": "最新"
+              },
+              {
+                  "Id": 21,
+                  "title": "夜总牛逼还需要解释吗？",
+                  "pub_date": "2022-10-02 22:59:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 22,
+                  "title": "夜总这么牛逼还要工作吗？",
+                  "pub_date": "2022-10-02 23:14:57.690",
+                  "state": "已发布",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 23,
+                  "title": "林被就不说夜总为什么这么牛逼了",
+                  "pub_date": "2022-10-03 00:08:08.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 24,
+                  "title": "夜总这么牛逼，潘总知道吗",
+                  "pub_date": "2022-10-03 01:19:36.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 25,
+                  "title": "夜总为什么爱搞基？",
+                  "pub_date": "2022-10-03 01:52:32.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 26,
+                  "title": "吃饭了",
+                  "pub_date": "2022-10-03 02:09:42.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 27,
+                  "title": "现在几点？",
+                  "pub_date": "2022-01-03 06:03:37.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 28,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 29,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 30,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 31,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 32,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 33,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 34,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 35,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 36,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 37,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 38,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 39,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 40,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 41,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 42,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 43,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 44,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 45,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 46,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 47,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 48,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 49,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 50,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 51,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 52,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 53,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 54,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 55,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 56,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 57,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 58,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 59,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 60,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 61,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 62,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 63,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 64,
+                  "title": "雅蠛蝶",
+                  "pub_date": "2022-10-03 09:35:47.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 65,
+                  "title": "Avogadro constant",
+                  "pub_date": "2022-10-03 14:19:22.690",
+                  "state": "草稿",
+                  "cate_name": "新闻"
+              },
+              {
+                  "Id": 66,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 67,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 68,
+                  "title": "擦，吴孟达死了",
+                  "pub_date": "2022-10-03 14:43:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 69,
+                  "title": "擦，宇宙大爆炸了！炸了，炸了",
+                  "pub_date": "2022-10-03 21:19:57.690",
+                  "state": "草稿",
+                  "cate_name": "最新"
+              },
+              {
+                  "Id": 70,
+                  "title": "曼城总冠军！",
+                  "pub_date": "2022-10-03 07:17:30.690",
+                  "state": "已发布",
+                  "cate_name": "新闻"
+              }
           ],
-          "total": ''
+          "total": '',
+          pagenum:1,
+          pagesize:10
     }
     dataInit.total = dataInit.data.length
-    console.log(dataInit.total);
     // 定义一个查询的参数对象，将来请求数据的时候，需要将请求参数对象提交到服务器
     let q = {
         pagenum:1,   //默认参数为第一页
@@ -152,7 +531,6 @@ $(function(){
     //         let ss = padZero(dt.getSeconds())
     
     //         return y+'-'+m+'-'+d+' '+hh+':'+mm+':'+ss
-        
     // }
     // 定义补零函数
     function padZero(n){
@@ -182,9 +560,13 @@ $(function(){
     function initTableSelf(dt){
         let htmlStr = template('tpl-table',dt)
         $('tbody').html(htmlStr)
-        renderPage()
     }
+    let dataReady = dataInit.data
+    dataInit.data = showPage(dataInit)[dataInit.pagenum-1]
     initTableSelf(dataInit)
+    dataInit.data = dataReady
+    renderPage(dataInit)
+    // initTableSelf(dataInit)
     // 选择下拉框之后的页面渲染函数
     // function renderTable(){
     //     let cate_id = $('[name=cate_id]').val()
@@ -193,7 +575,6 @@ $(function(){
     //         return item.Id == cate_id && item.state == state
     //     })
     // }
-    
     initCate()
     // 初始化文章分类的方法
     function initCate(){
@@ -220,7 +601,7 @@ $(function(){
         let cate_id = $('[name=cate_id]').val()
         let state = $('[name=state]').val()
         //过滤函数判断并筛选合适选项返回数组
-        let newData = dataInit.data.filter(item => {
+        let newData = dataInit.data.filter(item =>{
             if(cate_id !== '所有分类' && state !== '所有状态'){
                 return item.cate_name == cate_id && item.state == state
             }else if(cate_id === '所有分类' && state !== '所有状态' ){
@@ -233,22 +614,43 @@ $(function(){
         })
         // 创建一个代理对象承接data属性
         let dataObj = {
-            data:[]
+            data:[],
+            total: newData.length,
+            pagenum:dataInit.pagenum,
+            pagesize:dataInit.pagesize
         }
         dataObj.data = newData
+        let dataAtOnce = dataObj.data
+        dataObj.data = showPage(dataObj)[dataObj.pagenum-1]
         initTableSelf(dataObj)
-        // 渲染页面之后将该代理对象的data属性清空
-        dataObj.data = []
+        dataObj.data = dataAtOnce
+        renderPage(dataObj)
+        
     })
+    // 展示分页函数，返回数组
+    function showPage(dt){
+        let newDtAll = []
+        for(let i = 1;i<Math.ceil(dt.total/dt.pagesize)+1;i++){
+            let newDt = dt.data.slice(dt.pagesize*(i-1),dt.pagesize*i)
+            newDtAll.push(newDt)
+        }
+        return newDtAll
+    }
     // 定义渲染分页的方法
-    function renderPage(){
+    function renderPage(dt){
         laypage.render({
             elem:'pageBox',
-            count: dataInit.total,
-            limit:4,
-            curr:1,
-            jump:function(obj){
-                console.log(obj.curr);
+            count: dt.total,
+            limit:dt.pagesize,
+            curr:dt.pagenum,
+            jump:function(obj,first){
+                dt.pagenum = obj.curr
+                if(!first){
+                    let dataSource = dt.data
+                    dt.data=showPage(dt)[dt.pagenum-1]
+                    initTableSelf(dt)
+                    dt.data = dataSource
+                }
             }
         })
     }
