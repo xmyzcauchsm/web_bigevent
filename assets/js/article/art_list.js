@@ -643,8 +643,12 @@ $(function(){
             count: dt.total,
             limit:dt.pagesize,
             curr:dt.pagenum,
+            layout:['count','limit','prev','page','next','skip'],
+            limits:[2,3,5,10],
             jump:function(obj,first){
                 dt.pagenum = obj.curr
+                // 实现每页展示条目功能
+                dt.pagesize = obj.limit
                 if(!first){
                     let dataSource = dt.data
                     dt.data=showPage(dt)[dt.pagenum-1]
@@ -654,4 +658,18 @@ $(function(){
             }
         })
     }
+    // 通过代理方式绑定删除事件
+    $('tbody').on('click','.btn-delete',function(){
+        layer.confirm('is not?', {icon: 3, title:'提示'}, function(index){
+            //do something
+            
+        layer.close(index);
+        });
+        //eg2
+        layer.confirm('确认删除？', function(index){
+        //do something
+        
+        layer.close(index);
+        })
+    })
 })
